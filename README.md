@@ -14,5 +14,5 @@ Examples:
 * [Synth Bass](http://irok84.kei.pl/share/github-examples/random-midi-notes-player/synth_bass.mp3)
 * [Analog Synth](http://irok84.kei.pl/share/github-examples/random-midi-notes-player/analog_synth.mp3)
 
-
+Examples were recorded on Korg Triton Le synthesizer.
 

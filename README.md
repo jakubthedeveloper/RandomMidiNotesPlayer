@@ -1,5 +1,9 @@
 Plays random notes on selected MIDI device and channel.
 
+Requirements:
+
+`pip3 install rtmidi`
+
 Usage:
 
 `python3 play-random-notes.py`

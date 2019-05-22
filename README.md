@@ -6,11 +6,9 @@ Usage:
 
 Examples:
 
-You can find examples in the `examples` folder.
-
-* [Piano](./examples/piano.mp3)
-* [Synth Bass](./examples/synth_bass.mp3)
-* [Analog Synth](./examples/analog_synth.mp3)
+* [Piano](http://irok84.kei.pl/share/github-examples/random-midi-notes-player/piano.mp3)
+* [Synth Bass](http://irok84.kei.pl/share/github-examples/random-midi-notes-player/synth_bass.mp3)
+* [Analog Synth](http://irok84.kei.pl/share/github-examples/random-midi-notes-player/analog_synth.mp3)
 
 
 

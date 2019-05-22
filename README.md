@@ -6,9 +6,9 @@ Usage:
 
 Examples:
 
-* [Piano](./examples/piano.mp3)
-* [Synth Bass](./examples/synth_bass.mp3)
-* [Analog Synth](./examples/analog_synth.mp3)
+* [Piano](./examples/piano.mp3?raw=true)
+* [Synth Bass](./examples/synth_bass.mp3?raw=true)
+* [Analog Synth](./examples/analog_synth.mp3?raw=true)
 
 
 

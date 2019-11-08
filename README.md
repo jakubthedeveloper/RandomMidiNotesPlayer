@@ -16,3 +16,4 @@ Examples:
 
 Examples were recorded on Korg Triton Le synthesizer.
 
+[PL] Artykuł na blogu: https://programisty-dzien-powszedni.pl/python-i-midi/
